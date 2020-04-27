@@ -1,0 +1,17 @@
+Online Book Store
+	
+Feature 1:
+	-> Developed the spring boot backend application
+	-> Connected with Mysql database
+	-> Exposed rest end point to retrieve the list of books.
+	-> Developed the Angular front end application
+	-> Made http call to rest end point
+	-> Display the book in table form
+
+Feature 2: Designing, shopping cart template, Bootstrap
+	-> Designing the User Interface
+	-> Download a template from Internet
+	-> Integrate the template with angular application
+	-> Customising the template as per our requirement
+	-> Installing bootstrap, Jquery and front awesome library to angular application.
+
