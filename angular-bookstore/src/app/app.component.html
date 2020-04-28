@@ -12,10 +12,10 @@
           <div class="col-md-6">
             <div class="row">
               <div class="col-md-8">
-                  <input type="text" class="form-control" placeholder="Search books">
+                <input type="text" class="form-control" placeholder="Search books">
               </div>
               <div class="col-md-2">
-                  <button type="submit" class="btn btn-primary">Search</button>
+                <button type="submit" class="btn btn-primary">Search</button>
               </div>
             </div>
           </div>
@@ -38,42 +38,16 @@
         </div>
       </div>
     </nav>
-<br/>
-    <!-- Page Content -->
+    <br/>
+
+    <!--Page Content-->
     <div class="container">
-
-      <div class="row">
-
-        <div class="col-lg-3">
-
-          <div class="list-group">
-            <a href="#" class="list-group-item">Category 1</a>
-            <a href="#" class="list-group-item">Category 2</a>
-            <a href="#" class="list-group-item">Category 3</a>
-          </div>
-
-        </div>
-        <!-- /.col-lg-3 -->
-
-        <div class="col-lg-9">
-
-
-
-
-            <app-book-list></app-book-list>
-
-
-         
-
-        </div>
-        <!-- /.col-lg-9 -->
-
-      </div>
-      <!-- /.row -->
-
+      <router-outlet></router-outlet>
     </div>
-    <!-- /.container -->
+    <!--Container-->
+
   </div>
+  <!--Content-->
 
 
   <!-- Footer -->
@@ -89,3 +63,4 @@
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 </div>
+<!--Wrapper-->
