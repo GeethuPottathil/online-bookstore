@@ -15,3 +15,18 @@ Feature 2: Designing, shopping cart template, Bootstrap
 	-> Customising the template as per our requirement
 	-> Installing bootstrap, Jquery and front awesome library to angular application.
 
+Feature 3: Searching Books by Category
+	-> Angular Routing
+	-> How to pass parameter to uRL and How to read parameter from URL
+	-> will learn about Spring data JPA query methods
+	-> Create query methods to retrieve books based on category
+	-> overriding rest end points.
+
+Feature 4: 
+	-> Retrieving category list from datbase
+	-> will learn generating component using angular CLI
+	-> Generating model class using angular CLI
+	-> Will learn making Http Get request to Spring Boot Backend application
+	-> Will learn about angular structural directive
+	-> will learn about angular property binding
+
