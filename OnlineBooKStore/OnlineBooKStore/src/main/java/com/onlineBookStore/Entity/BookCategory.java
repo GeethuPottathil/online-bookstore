@@ -56,6 +56,6 @@ public class BookCategory {
 		this.book = book;
 	}
 	
-	
+	 
 
 }
